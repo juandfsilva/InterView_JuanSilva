@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InterView_JuanSilva": {
+      "commandName": "Project",
+      "commandLineArgs": "resultadoCorrida.txt"
+    }
+  }
+}
